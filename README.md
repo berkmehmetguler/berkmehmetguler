@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Project Management**
 
-- 🤝 I’m looking for help with **Website Development**
+- 🤝 I’m looking for help with **Full-stack Developer**
 
 - 👨‍💻 All of my projects are available at [berkmehmetguler-portfolio.netlify.app](berkmehmetguler-portfolio.netlify.app)
 
