@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Berk M. Guler</h1>
 <h3 align="center">A passionate Full-stack Developer from Netherlands</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berkmehmetguler&label=Profile%20views&color=0e75b6&style=flat" alt="berkmehmetguler" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkmehmetguler" alt="berkmehmetguler" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkmehmetguler" alt="berkmehmetguler" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/berkmguler" target="blank"><img src="https://img.shields.io/twitter/follow/berkmguler?logo=twitter&style=for-the-badge" alt="berkmguler" /></a> </p>
 
