@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/berkmguler" target="blank"><img src="https://img.shields.io/twitter/follow/berkmguler?logo=twitter&style=for-the-badge" alt="berkmguler" /></a> </p>
 
-- 🔭 I’m currently working on [Detaconcept](https://www.detaconcept.nl/)
+- 🔭 I’m currently working on nowhere
 
 - 🌱 I’m currently learning **JavaScript**
 
