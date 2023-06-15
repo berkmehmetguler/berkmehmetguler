@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/berkmguler" target="blank"><img src="https://img.shields.io/twitter/follow/berkmguler?logo=twitter&style=for-the-badge" alt="berkmguler" /></a> </p>
 
-- 🔭 I’m currently working on nowhere
+- 🔭 I’m currently working on Freelancer
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Project Management**
 
 - 🤝 I’m looking for help with **Full-stack Developer**
 
-- 👨‍💻 All of my projects are available at [berkmehmetguler-portfolio.netlify.app](wwww.berkmehmetguler-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://berkmehmetguler-portfolio.netlify.app/)
 
 - 💬 Ask me about **React.js Node.js MongoDB**
 
