@@ -1,40 +1,145 @@
-<p align="center"> Visitor Counter 🕵🏼</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{berkmehmetguler}/count.svg" alt="Visitor's Count" /></p>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Berk M. Guler</h1>
-<h3 align="center">A passionate Full-stack Developer from Netherlands</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Berk%20M.%20Guler&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Freelancer&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React.js+%7C+Node.js+%7C+MongoDB;Currently+learning+Python+%F0%9F%90%8D;Open+to+collaboration+%26+freelance+work" alt="Typing SVG" />
+</a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="berkmehmetguler" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/berkmguler" target="blank"><img src="https://img.shields.io/twitter/follow/berkmguler?logo=twitter&style=for-the-badge" alt="berkmguler" /></a> </p>
+<img src="https://img.shields.io/badge/Based%20in-Netherlands-FF6B00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-22C55E?style=for-the-badge" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=berkmehmetguler&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-- 🔭 I’m currently working on Freelancer
+<br/><br/>
 
-- 🌱 I’m currently learning **Python**
+<a href="https://berkmehmetguler-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/berk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/berkmguler"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://stackoverflow.com/users/berkmguler"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://instagram.com/1b.erk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:berkmguler@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-- 👯 I’m looking to collaborate on **Project Management**
+</div>
 
-- 🤝 I’m looking for help with **Full-stack Developer**
+<br/>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://berkmehmetguler-portfolio.netlify.app/)
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
-- 💬 Ask me about **React.js Node.js MongoDB**
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 📫 How to reach me **berkmguler@gmail.com**
+Hi, I'm **Berk** 👋 — a passionate **Full-Stack Developer** based in the **Netherlands**. I design and build fast, scalable and user-friendly web applications, from clean interfaces to robust back-end services.
 
-- ⚡ Fun fact **I really enjoy coding**
+| | |
+|---|---|
+| 🔭 **Currently** | Working as a **Freelancer** |
+| 🌱 **Learning** | **Python** |
+| 👯 **Collaborating on** | **Project Management** |
+| 🤝 **Looking for help with** | **Full-Stack Development** |
+| 💬 **Ask me about** | **React.js · Node.js · MongoDB** |
+| ⚡ **Fun fact** | I really enjoy coding |
+| 📫 **Reach me** | [berkmguler@gmail.com](mailto:berkmguler@gmail.com) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/berkmguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkmguler" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/berkmguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berkmguler" height="30" width="40" /></a>
-<a href="https://instagram.com/1b.erk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1b.erk" height="30" width="40" /></a>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=berkmehmetguler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass&theme=dark" alt="Frontend"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,dotnet,mongodb,mysql,firebase,oracle&theme=dark" alt="Backend"/>
+</p>
 
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio&theme=dark" alt="Mobile"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkmehmetguler&" alt="berkmehmetguler" /></p>
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,postman&theme=dark" alt="DevOps"/>
+</p>
+
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" alt="Design"/>
+</p>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkmehmetguler&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkmehmetguler&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=berkmehmetguler&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=berkmehmetguler&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+> All of my projects are available on my **[Portfolio](https://berkmehmetguler-portfolio.netlify.app/)**.
+
+<div align="center">
+
+<a href="https://berkmehmetguler-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Full%20Portfolio-38BDF8?style=for-the-badge&labelColor=0F172A" alt="Portfolio"/>
+</a>
+
+</div>
+
+<!-- Pinned repo kartı eklemek için aşağıdaki şablonu kullanabilirsiniz:
+<a href="https://github.com/berkmehmetguler/REPO_ADI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkmehmetguler&repo=REPO_ADI&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+-->
+
+<br/>
+
+<!-- ===================== CONTACT ===================== -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+Have a project in mind or want to collaborate? I'd love to hear from you.
+
+<a href="mailto:berkmguler@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20in%20Touch-berkmguler@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" width="100%"/>
+
+</div>
