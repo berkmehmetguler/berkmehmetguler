@@ -1,5 +1,5 @@
 <p align="center"> Visitor Counter 🕵🏼</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{serkancagman}/count.svg" alt="Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{berkmehmetguler}/count.svg" alt="Visitor's Count" /></p>
 
 <h1 align="center">Hi 👋, I'm Berk M. Guler</h1>
 <h3 align="center">A passionate Full-stack Developer from Netherlands</h3>
